@@ -148,3 +148,24 @@ footer ul li:hover{
     margin-right: 10px;
     
 }
+.our-history{
+    background-image: url('../../images/image\ 9.jpg');
+    padding: 20px;
+    color: rgb(0, 140, 255);
+    min-height: 200px;
+    
+}
+.ourStory img{
+    box-shadow: 10px 10px rgb(127, 175, 223);
+}
+.our-values i{
+    width: 100px;
+    height: 100px;
+    color: rgb(0, 225, 255);
+    border: 2px solid rgb(0, 195, 255);
+    padding: 20px;
+    border-radius: 40px;
+    transition: 0.2s linear;
+    font-size: 32px
+   
+}
