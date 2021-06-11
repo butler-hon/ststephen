@@ -217,3 +217,22 @@ footer ul li:hover{
     padding: 10px 10px;
     box-shadow: 10px 10px greenyellow;
 }
+.bannerSection{
+    background-image: url(../../images/image\ 9.jpg);
+    background-size: cover;
+    min-height: 200px;
+    padding: 80px;
+}
+.rugby img{
+    padding: 10px 10px;
+    box-shadow: 10px 10px rgb(97, 99, 96);
+}
+.accomplishment img{
+    padding: 10px 10px;
+    box-shadow: 10px 10px rgb(70, 71, 68);
+}
+.navbar-brand{
+    font-family:serif;
+    font-size:30px;
+    font-weight: 600;
+}
