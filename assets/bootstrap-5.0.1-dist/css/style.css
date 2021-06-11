@@ -183,3 +183,37 @@ footer ul li:hover{
 .staffSection img:hover{
     box-shadow: 0 0 10px 0px greenyellow;
 }
+.banSection{
+    background-image: url(../../images/ict.jpg);
+    background-size: cover;
+    min-height: 200px;
+    padding: 80px;
+}
+.ictSection img{
+    padding: 10px 10px;
+}
+.ictSection img{
+    box-shadow: 10px 10px greenyellow;
+}
+.libSection{
+    background-image: url(../../images/library.jpg);
+    background-size: cover;
+    min-height: 200px;
+    padding: 80px;
+}
+
+.braSection img{
+    box-shadow:  10px 10px greenyellow;
+    padding: 10px 10px;
+
+}
+.secSection{
+    background-image: url(../../images/lab\ -\ Copy.jpg);
+    background-size: cover;
+    min-height: 200px;
+    padding: 80px;
+}
+.henSection img{
+    padding: 10px 10px;
+    box-shadow: 10px 10px greenyellow;
+}
