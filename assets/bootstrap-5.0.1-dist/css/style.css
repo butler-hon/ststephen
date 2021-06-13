@@ -28,8 +28,8 @@
 .marketingSection i{
     width: 100px;
     height: 100px;
-    color: rgb(22, 190, 22);
-    border: 2px solid rgb(22, 190, 22);
+    color: rgb(22, 100, 190);
+    border: 2px solid rgb(22, 100, 190);
     padding: 20px;
     border-radius: 40px;
     transition: 0.2s linear;
@@ -53,7 +53,7 @@
 }
 .memberSection{
     padding: 70px;
-    background-color:rgb(138, 173, 57);
+    background-color:rgb(72, 160, 243);
     color: white;
 
 }
@@ -75,17 +75,17 @@
     text-align: center;
 }
 .ourExcellence span{
-    color: rgb(94, 128, 0);
+    color: rgb(0, 70, 128);
     text-decoration: underline;
    
     font-weight: 500;
 }
 .newsSection h2 span{
-    color:rgb(100, 128, 0) !important;
+    color:rgb(0, 70, 128) !important;
 
 }
 .newsSection img{
-    height: 200px;
+    height: 250px;
 }
 .newsSection img:hover{
     opacity: .5;
@@ -98,7 +98,7 @@
     transition: 5s linear;
 }
 .newsSection .card:hover{
-    box-shadow:0 0 10px 0px rgb(181, 224, 64);
+    box-shadow:0 0 10px 0px rgb(103, 190, 224);
     cursor: s-resize;
     transition: .7s linear;
     margin-bottom: 10px;
@@ -128,7 +128,7 @@ footer ul.social li{
     width: 50px;
     height: 50px;
     font-size: 28px;
-    border: 1px solid rgb(200, 250, 135);
+    border: 1px solid rgb(226, 245, 244);
     border-radius: 40%;
     margin: right;
 }
@@ -151,18 +151,18 @@ footer ul li:hover{
 .our-history{
     background-image: url('../../images/image\ 9.jpg');
     padding: 20px;
-    color: rgb(115, 255, 0);
+    color: rgb(226, 245, 244);
     min-height: 200px;
     
 }
 .ourStory img{
-    box-shadow: 10px 10px rgb(174, 223, 127);
+    box-shadow: 10px 10px rgb(226, 245, 244);
 }
 .our-values i{
     width: 100px;
     height: 100px;
-    color: rgb(30, 255, 0);
-    border: 2px solid rgb(0, 255, 42);
+    color: rgb(22, 100, 190);
+    border: 2px solid rgb(22, 100, 190) ;
     padding: 20px;
     border-radius: 40px;
     transition: 0.2s linear;
@@ -181,10 +181,10 @@ footer ul li:hover{
 
 }
 .staffSection img:hover{
-    box-shadow: 0 0 10px 0px greenyellow;
+    box-shadow: 0 0 10px 0px rgb(226, 245, 244);
 }
 .banSection{
-    background-image: url(../../images/ict.jpg);
+    background-image: url(../../images/unnamed\ \(2\).jpg);
     background-size: cover;
     min-height: 200px;
     padding: 80px;
@@ -193,7 +193,7 @@ footer ul li:hover{
     padding: 10px 10px;
 }
 .ictSection img{
-    box-shadow: 10px 10px greenyellow;
+    box-shadow: 10px 10px rgb(226, 245, 244) ;
 }
 .libSection{
     background-image: url(../../images/library.jpg);
@@ -203,7 +203,7 @@ footer ul li:hover{
 }
 
 .braSection img{
-    box-shadow:  10px 10px greenyellow;
+    box-shadow:  10px 10px rgb(226, 245, 244);
     padding: 10px 10px;
 
 }
@@ -215,7 +215,7 @@ footer ul li:hover{
 }
 .henSection img{
     padding: 10px 10px;
-    box-shadow: 10px 10px greenyellow;
+    box-shadow: 10px 10px rgb(226, 245, 244);
 }
 .bannerSection{
     background-image: url(../../images/image\ 9.jpg);
@@ -225,11 +225,11 @@ footer ul li:hover{
 }
 .rugby img{
     padding: 10px 10px;
-    box-shadow: 10px 10px rgb(97, 99, 96);
+    box-shadow: 10px 10px rgb(177, 179, 176);
 }
 .accomplishment img{
     padding: 10px 10px;
-    box-shadow: 10px 10px rgb(70, 71, 68);
+    box-shadow: 10px 10px rgb(177, 179, 176);
 }
 .navbar-brand{
     font-family:serif;
